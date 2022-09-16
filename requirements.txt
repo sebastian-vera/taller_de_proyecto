@@ -297,7 +297,7 @@ t4==0.1.4
 tables==3.5.2
 tblib==1.4.0
 tensorboard==2.1.1
-tensorflow==2.0.0
+tensorflow==2.7.2
 tensorflow-estimator==2.1.0
 tensorflow-gpu==2.1.0
 tensorflow-gpu-estimator==2.1.0
