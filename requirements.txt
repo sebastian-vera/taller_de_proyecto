@@ -159,7 +159,7 @@ msgpack==0.6.1
 multipledispatch==0.6.0
 multiprocess==0.70.9
 murmurhash==1.0.2
-mxnet==1.6.0
+mxnet==1.9.1
 mysql-connector-python==8.0.18
 navigator-updater==0.2.1
 nbconvert==5.5.0
